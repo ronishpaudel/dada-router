@@ -10,7 +10,7 @@ import (
 	"github.com/zalando/go-keyring"
 	"golang.org/x/term"
 
-	"github.com/yourname/dada-router/internal/config"
+	"github.com/ronishpaudel/dada-router/internal/config"
 )
 
 var (

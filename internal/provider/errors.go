@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yourname/dada-router/internal/redact"
+	"github.com/ronishpaudel/dada-router/internal/redact"
 )
 
 var (

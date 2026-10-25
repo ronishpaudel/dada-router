@@ -11,8 +11,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yourname/dada-router/internal/config"
-	"github.com/yourname/dada-router/internal/provider"
+	"github.com/ronishpaudel/dada-router/internal/config"
+	"github.com/ronishpaudel/dada-router/internal/provider"
 )
 
 // CachedResponse stores a completed model response

@@ -8,7 +8,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/yourname/dada-router/internal/config"
+	"github.com/ronishpaudel/dada-router/internal/config"
 )
 
 func TestLogger_DisabledByDefault(t *testing.T) {

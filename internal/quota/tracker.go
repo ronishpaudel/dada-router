@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yourname/dada-router/internal/config"
+	"github.com/ronishpaudel/dada-router/internal/config"
 )
 
 var (

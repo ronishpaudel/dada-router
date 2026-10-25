@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/yourname/dada-router/internal/provider"
+	"github.com/ronishpaudel/dada-router/internal/provider"
 )
 
 // EstimateTokens calculates estimated token count using formula:

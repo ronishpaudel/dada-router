@@ -25,7 +25,7 @@ This document maintains the architectural reference, core invariants, error cont
 ## 2. Naming & Filesystem Conventions
 
 - **Project Name**: `dada-router`
-- **Go Module**: `github.com/yourname/dada-router`
+- **Go Module**: `github.com/ronishpaudel/dada-router`
 - **Binary Name**: `dada` (output path: `bin/dada`)
 - **Keyring Service Name**: `dada-router`
 - **Config Directory**: `~/.config/dada-router/` (overridable via `DADA_ROUTER_CONFIG_DIR`)

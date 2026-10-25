@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yourname/dada-router/internal/config"
-	"github.com/yourname/dada-router/internal/redact"
+	"github.com/ronishpaudel/dada-router/internal/config"
+	"github.com/ronishpaudel/dada-router/internal/redact"
 )
 
 // LogEntry represents a single JSON structured log line

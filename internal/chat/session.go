@@ -12,14 +12,14 @@ import (
 
 	"github.com/charmbracelet/lipgloss"
 
-	"github.com/yourname/dada-router/internal/cache"
-	"github.com/yourname/dada-router/internal/config"
-	"github.com/yourname/dada-router/internal/keyring"
-	"github.com/yourname/dada-router/internal/logger"
-	"github.com/yourname/dada-router/internal/provider"
-	"github.com/yourname/dada-router/internal/quota"
-	"github.com/yourname/dada-router/internal/redact"
-	"github.com/yourname/dada-router/internal/route"
+	"github.com/ronishpaudel/dada-router/internal/cache"
+	"github.com/ronishpaudel/dada-router/internal/config"
+	"github.com/ronishpaudel/dada-router/internal/keyring"
+	"github.com/ronishpaudel/dada-router/internal/logger"
+	"github.com/ronishpaudel/dada-router/internal/provider"
+	"github.com/ronishpaudel/dada-router/internal/quota"
+	"github.com/ronishpaudel/dada-router/internal/redact"
+	"github.com/ronishpaudel/dada-router/internal/route"
 )
 
 var (

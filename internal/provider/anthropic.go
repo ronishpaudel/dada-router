@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/yourname/dada-router/internal/config"
+	"github.com/ronishpaudel/dada-router/internal/config"
 )
 
 // AnthropicProvider implements the Provider interface for Anthropic

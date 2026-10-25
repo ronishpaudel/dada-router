@@ -3,7 +3,7 @@ package provider
 import (
 	"time"
 
-	"github.com/yourname/dada-router/internal/config"
+	"github.com/ronishpaudel/dada-router/internal/config"
 )
 
 // APIVersionInfo tracks the pinned API version, date verified, and changelog

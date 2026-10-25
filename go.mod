@@ -1,4 +1,4 @@
-module github.com/yourname/dada-router
+module github.com/ronishpaudel/dada-router
 
 go 1.22
 

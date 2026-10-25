@@ -7,7 +7,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/yourname/dada-router/internal/provider"
+	"github.com/ronishpaudel/dada-router/internal/provider"
 )
 
 func TestEstimateTokens(t *testing.T) {

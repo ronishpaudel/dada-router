@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/yourname/dada-router/internal/config"
+	"github.com/ronishpaudel/dada-router/internal/config"
 )
 
 // OpenAICompatProvider implements Provider for OpenAI and OpenAI-compatible APIs (xAI, DeepSeek)

@@ -1,0 +1,39 @@
+# Binaries and build artifacts
+bin/
+dist/
+build/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Environment and sensitive credential files
+.env
+.env.*
+*.env
+*.key
+*.pem
+*.cert
+*.crt
+*.p12
+*.pfx
+*.secret
+*.secrets
+*credentials*.json
+credentials/
+secrets/
+.secrets/
+
+# Logs
+*.log
+logs/
+
+# Editor and OS metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*~
